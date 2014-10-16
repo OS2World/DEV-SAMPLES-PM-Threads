@@ -1,4 +1,21 @@
 DEV-SAMPLES-PM-Threads
 ======================
 
-MULTI-THREADING PM APPLICATIONS. 
+Multithreading Presentation Manager Applications article source code. 
+
+LICENSE
+===============
+* Not Specified
+
+COMPILE TOOLS
+===============
+* 
+ 
+AUTHORS
+===============
+* Monte Copeland
+
+LINKS
+===============
+* 
+
